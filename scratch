@@ -1,0 +1,7 @@
+private void writeObject(ObjectOutputStream os)
+private void readObject(ObjectInputStream is)
+
+serialize and de-sereialize game objects
+
+add staff object
+
